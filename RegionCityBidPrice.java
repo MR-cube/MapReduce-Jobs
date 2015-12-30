@@ -1,6 +1,6 @@
 /*
 @Author : Amit Patange
-@Purpose : Get cube based on Region, city and bid price dimensions. 
+@Purpose : Get data cube based on Region, city and bid price dimensions. 
 */
 import java.io.IOException;
 import java.sql.Connection;
