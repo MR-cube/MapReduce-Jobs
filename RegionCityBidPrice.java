@@ -1,6 +1,7 @@
 /*
 @Author : Amit Patange
 @Purpose : Get data cube based on Region, city and bid price dimensions. 
+@File : MapReduce Job
 */
 import java.io.IOException;
 import java.sql.Connection;
